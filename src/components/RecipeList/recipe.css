@@ -1,0 +1,16 @@
+.add-notes{
+    border-radius: 5px;
+    border: none;
+    color: #09080884;
+    background-color: #5488a4;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    outline: 0;
+    transition: background 0.3s;
+    padding: 6px 9px;
+    float: right;
+    margin-top: 6px;
+}

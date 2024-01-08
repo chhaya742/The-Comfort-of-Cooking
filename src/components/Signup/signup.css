@@ -1,0 +1,47 @@
+.registration {
+
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0px 4px 20px rgb(0 0 0 / 50%);
+    padding-bottom: 0px;
+    padding-top: 46px;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 654px;
+    margin-bottom: 53px;
+}
+
+.signup-input-btn{
+    background: #3e32cd;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    outline: 0;
+    transition: background 0.3s;
+    padding: 7px 120px;
+}
+.signup-input-btn1{
+    background: #d7d6e3;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    margin-top: -61px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    outline: 0;
+    transition: background 0.3s;
+    padding: 7px 120px;
+}
