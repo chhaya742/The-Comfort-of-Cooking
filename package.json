@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "axios": "^1.6.3",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "knex": "^3.1.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.2"
+  },
+  "name": "The Comfort of Cooking",
+  "description": "Welcome! We create simple, cozy and delicious recipes for everyday cooks. Here you'll find easy dinners, desserts, breakfasts and reader-loved recipes for the whole family. Come on in and find a favorite!",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chhaya742/The-Comfort-of-Cooking.git"
+  },
+  "author": "Chhaya Bagwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chhaya742/The-Comfort-of-Cooking/issues"
+  },
+  "homepage": "https://github.com/chhaya742/The-Comfort-of-Cooking#readme"
+}
